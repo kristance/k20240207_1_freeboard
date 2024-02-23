@@ -6,7 +6,7 @@ import java.util.Date;
 public class FreeboardVO {
 
 	private int idx; //	메인글 글번호
-	private String name;
+	private String name; // 작성자 이름
 	private String password;
 	private String subject; //	메인글 제목
 	private String content; //	메인글 내용
